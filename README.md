@@ -1,2 +1,2 @@
 # Python
-Exercicios resolvidos em Python
+Curso Python
